@@ -45,6 +45,7 @@ const Timer = () => {
     }
   return (
     <div> 
+         <h1 >Set a Timer Until Your Order Arrives</h1>
          <h1 id='PlayTimer'>
             00: 00: 00
          </h1>

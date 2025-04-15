@@ -26,7 +26,7 @@ const FoodList = () => {
             }
         </ul>
         <input type="text" id='foodInput' placeholder='enter food name' />
-        <button onClick={handleAdFood}>Add food</button>
+        <button onClick={handleAdFood}>Order food</button>
 
     </div>
   )
